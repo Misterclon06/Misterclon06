@@ -1,10 +1,10 @@
-### Hey, [TuNombreAquí!](https://tu-link-aqui.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, [Mister!](https://github.com/Misterclon06)) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Awesome Matrix Code" align="right"/>
+<img src="(https://img1.picmix.com/output/stamp/normal/1/8/7/0/2170781_d73a3.gif)" alt="Awesome Matrix Code" align="right"/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil/)](https://www.linkedin.com/in/tu-perfil/) 
-[![Gmail Badge](https://img.shields.io/badge/-tuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuemail@gmail.com)](mailto:tuemail@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white&link=https://tu-portafolio.com)](https://tu-portafolio.com)  
+[[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu-perfil/)](https://www.linkedin.com/in/tu-perfil/)]:#
+[[![Gmail Badge](https://img.shields.io/badge/-tuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuemail@gmail.com)](mailto:tuemail@gmail.com)]:#
+[[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white&link=https://tu-portafolio.com)](https://tu-portafolio.com)]:#  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tu-usuario-github" alt="Profile Views" /> </p>
 
