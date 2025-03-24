@@ -1,9 +1,12 @@
 # 🌐 **Selecciona tu idioma | Select your language | 言語を選択してください**  
-[🇬🇧 English](#hey-im-mister) | [🇪🇸 Español](#hola-soy-mister) | [🇯🇵 日本語](#japanese-section)  
+[🇬🇧 English](#english) | [🇪🇸 Español](#espanol) | [🇯🇵 日本語](#japanese)  
 
 ---
 
-## 🇬🇧 **Hey, I'm Mister!** 👋  
+## 🇬🇧 **Hey, I'm Mister!** 👋 {#english}  
+
+<img src="https://img1.picmix.com/output/stamp/normal/1/8/7/0/2170781_d73a3.gif" alt="kirby" width="100" align="right"/>
+
 Welcome to my digital space!  
 I'm a **Full Stack Developer** passionate about continuous learning. I love exploring new technologies and solving problems through code. My experience includes:
 
@@ -11,13 +14,12 @@ I'm a **Full Stack Developer** passionate about continuous learning. I love expl
 - 🚀 **Web Development** (Frontend & Backend)  
 - 🤖 **Machine Learning & AI**  
 - 🔗 **Blockchain & Smart Contracts**  
-- ⚡ **Code Optimization & Performance**  
 
 ### 💻 Languages & Tools  
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>  
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>  
 
 ### 📊 GitHub Stats  
@@ -36,11 +38,11 @@ I'm a **Full Stack Developer** passionate about continuous learning. I love expl
 
 ✨ _If you like my profile, star my repositories and follow me for more cool content!_ 🚀  
 
-[🔝 Back to top](#-Selecciona-tu-idioma-|-Select-your-language-|-言語を選択してください)  
+[🔝 Back to top](#select-language)  
 
 ---
 
-## 🇪🇸 **¡Hola, soy Mister!** 👋  
+## 🇪🇸 **¡Hola, soy Mister!** 👋 {#espanol}  
 ¡Bienvenido a mi espacio digital!  
 Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje continuo. Me apasiona explorar nuevas tecnologías y resolver problemas con código. Tengo experiencia en:
 
@@ -48,7 +50,6 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 - 🚀 **Desarrollo Web** (Frontend y Backend)  
 - 🤖 **Machine Learning & IA**  
 - 🔗 **Blockchain y Smart Contracts**  
-- ⚡ **Optimización de código y rendimiento**  
 
 ### 📌 Actualmente trabajando en  
 - 🔹 Creación de aplicaciones web modernas y escalables  
@@ -62,11 +63,11 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 
 ✨ _Si te gusta este perfil, dale ⭐ a mis repositorios y sígueme para más contenido interesante_ 🚀  
 
-[🔝 Volver arriba](#-hola-soy-mister)  
+[🔝 Volver arriba](#select-language)  
 
 ---
 
-## 🇯🇵 **こんにちは、ミスターです！** 👋 {#japanese-section}
+## 🇯🇵 **こんにちは、ミスターです！** 👋 {#japanese}  
 私のデジタルスペースへようこそ！  
 私は継続的な学習に情熱を注ぐ**フルスタック開発者**です。  
 新しい技術を探求し、コードで問題を解決するのが大好きです。  
@@ -88,8 +89,8 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 
 ✨ _このプロフィールが気に入ったら、リポジトリに⭐をつけてフォローしてください！_ 🚀  
 
-[🔝 トップに戻る](#-hola-soy-mister)  
+[🔝 トップに戻る](#select-language)  
 
 ---
 
-🚀 _Si te gusta este perfil, dale ⭐ a mis repos y sígueme para más contenido._  
+🚀 _Si te gusta este perfil, dale ⭐ a mis repos y sígueme para más contenido._
