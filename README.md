@@ -32,8 +32,8 @@ I'm a **Full Stack Developer** passionate about continuous learning. I love expl
 - 🔹 Exploring Blockchain & DeFi development  
 
 ### 📫 How to reach me  
-📩 [Email](mailto:tuemail@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+📩 [Email](mailto:josefrancisco.rodriguez.50364@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-rodriguez-mister)  
 🌍 [Portfolio](https://tu-portafolio.com)  
 
 ✨ _If you like my profile, star my repositories and follow me for more cool content!_ 🚀  
@@ -57,8 +57,8 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 - 🔹 Explorando el desarrollo Blockchain y DeFi  
 
 ### 📫 Cómo contactarme  
-📩 [Email](mailto:tuemail@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+📩 [Email](mailto:josefrancisco.rodriguez.50364@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-rodriguez-mister)  
 🌍 [Portafolio](https://tu-portafolio.com)  
 
 ✨ _Si te gusta este perfil, dale ⭐ a mis repositorios y sígueme para más contenido interesante_ 🚀  
@@ -83,14 +83,10 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 - 🔹 ブロックチェーン & DeFiの開発を探求  
     
 ### 📫 連絡方法  
-📩 [メール](mailto:tuemail@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+📩 [メール](mailto:josefrancisco.rodriguez.50364@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-rodriguez-mister)  
 🌍 [ポートフォリオ](https://tu-portafolio.com)  
 
 ✨ _このプロフィールが気に入ったら、リポジトリに⭐をつけてフォローしてください！_ 🚀  
 
 [🔝 トップに戻る](#-selecciona-tu-idioma--select-your-language--言語を選択してください)  
-
----
-
-🚀 _Si te gusta este perfil, dale ⭐ a mis repos y sígueme para más contenido._
