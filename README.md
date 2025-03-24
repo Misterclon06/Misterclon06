@@ -1,9 +1,9 @@
 # 🌐 **Selecciona tu idioma | Select your language | 言語を選択してください**  
-[🇬🇧 English](#-welcome-to-my-digital-space) | [🇪🇸 Español](#-bienvenido-a-mi-espacio-digital) | [🇯🇵 日本語](#-デジタルスペースへようこそ)  
+[🇬🇧 English](#-Hey,-I'm-Mister) | [🇪🇸 Español](#-Hola,-soy-Mister) | [🇯🇵 日本語](#-こんにちは、ミスターです)  
 
 ---
 
-## 🇬🇧 **Hello, I'm Mister!** 👋  
+## 🇬🇧 **Hey, I'm Mister!** 👋  
 Welcome to my digital space!  
 I'm a **Full Stack Developer** passionate about continuous learning. I love exploring new technologies and solving problems through code. My experience includes:
 
@@ -36,7 +36,7 @@ I'm a **Full Stack Developer** passionate about continuous learning. I love expl
 
 ✨ _If you like my profile, star my repositories and follow me for more cool content!_ 🚀  
 
-[🔝 Back to top](#-hola-soy-mister)  
+[🔝 Back to top](#-Selecciona-tu-idioma-|-Select-your-language-|-言語を選択してください)  
 
 ---
 
