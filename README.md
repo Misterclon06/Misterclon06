@@ -1,5 +1,5 @@
 # 🌐 Selecciona tu idioma | Select your language | 言語を選択してください
-[🇬🇧 English](#-hey-im-mister) | [🇪🇸 Español](#-hola-soy-mister) | [🇯🇵 日本語](#-こんにちはミスターです)  
+[🇬🇧 English](#-hey-im-mister-) | [🇪🇸 Español](#-hola-soy-mister-) | [🇯🇵 日本語](#-こんにちはミスターです-)  
 
 ---
 
