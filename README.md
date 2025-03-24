@@ -1,9 +1,9 @@
-# 🌐 **Selecciona tu idioma | Select your language | 言語を選択してください**  
+# 🌐 Selecciona tu idioma | Select your language | 言語を選択してください {#inicio}  
 [🇬🇧 English](#english) | [🇪🇸 Español](#espanol) | [🇯🇵 日本語](#japanese)  
 
 ---
 
-## 🇬🇧 **Hey, I'm Mister!** 👋 {#english}  
+## 🇬🇧 Hey, I'm Mister! 👋 {#english}  
 
 <img src="https://img1.picmix.com/output/stamp/normal/1/8/7/0/2170781_d73a3.gif" alt="kirby" width="100" align="right"/>
 
@@ -38,11 +38,11 @@ I'm a **Full Stack Developer** passionate about continuous learning. I love expl
 
 ✨ _If you like my profile, star my repositories and follow me for more cool content!_ 🚀  
 
-[🔝 Back to top](#select-language)  
+[🔝 Back to top](#inicio)  
 
 ---
 
-## 🇪🇸 **¡Hola, soy Mister!** 👋 {#espanol}  
+## 🇪🇸 ¡Hola, soy Mister! 👋 {#espanol}  
 ¡Bienvenido a mi espacio digital!  
 Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje continuo. Me apasiona explorar nuevas tecnologías y resolver problemas con código. Tengo experiencia en:
 
@@ -63,11 +63,11 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 
 ✨ _Si te gusta este perfil, dale ⭐ a mis repositorios y sígueme para más contenido interesante_ 🚀  
 
-[🔝 Volver arriba](#select-language)  
+[🔝 Volver arriba](#inicio)  
 
 ---
 
-## 🇯🇵 **こんにちは、ミスターです！** 👋 {#japanese}  
+## 🇯🇵 こんにちは、ミスターです！ 👋 {#japanese}  
 私のデジタルスペースへようこそ！  
 私は継続的な学習に情熱を注ぐ**フルスタック開発者**です。  
 新しい技術を探求し、コードで問題を解決するのが大好きです。  
@@ -89,7 +89,7 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 
 ✨ _このプロフィールが気に入ったら、リポジトリに⭐をつけてフォローしてください！_ 🚀  
 
-[🔝 トップに戻る](#select-language)  
+[🔝 トップに戻る](#inicio)  
 
 ---
 
