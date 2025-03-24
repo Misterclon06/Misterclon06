@@ -25,8 +25,8 @@ Soy un **programador Full Stack** con un gran entusiasmo por el aprendizaje cont
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>  
 
 ## 📊 Mis estadísticas en GitHub  
-![TuNombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark)  
+![TuNombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistercon06&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mistercon06&layout=compact&theme=dark)  
 
 ## 📌 Actualmente trabajando en  
 🔹 Creación de aplicaciones web modernas y escalables  
