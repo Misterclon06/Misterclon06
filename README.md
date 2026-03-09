@@ -23,7 +23,7 @@ I'm a **Full Stack Developer** passionate about continuous learning. I love expl
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>  
 
 ### 📊 GitHub Stats  
-![Mister's GitHub stats](https://github-readme-stats.vercel.app/api?username=Misterclon06&show_icons=true&theme=dark)  
+![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Misterclon06&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterclon06&layout=compact&theme=dark)  
 
 ### 📌 Currently working on  
