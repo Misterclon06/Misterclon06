@@ -1,0 +1,57 @@
+name: Update GitHub profile
+
+on:
+  schedule:
+    - cron: "23 12 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/scripts/update_profile.py
+      - .github/workflows/update-profile.yml
+      - README.md
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-github-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - name: Prepare asset directory
+        run: mkdir -p assets
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/contribution-snake.svg?palette=github-light&color_snake=%23d94892
+            assets/contribution-snake-dark.svg?palette=github-dark&color_snake=%23f472b6
+
+      - name: Update README
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          test -s assets/contribution-snake.svg
+          test -s assets/contribution-snake-dark.svg
+          python3 .github/scripts/update_profile.py
+
+      - name: Publish generated changes
+        run: |
+          git add -- README.md assets/contribution-snake.svg assets/contribution-snake-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update GitHub profile activity"
+          git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"
