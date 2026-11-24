@@ -42,7 +42,10 @@ I'm a **full-stack developer**. I build web and mobile applications and enjoy ex
 ![Languages by public repository for Misterclon06](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Misterclon06&theme=dark)
 
 <!-- profile-snake:start -->
-[Contribution calendar · Calendario de contribuciones · 貢献カレンダー](https://github.com/Misterclon06#contributions)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contribution-snake-dark.svg" />
+  <img alt="Animated GitHub contribution calendar" src="assets/contribution-snake.svg" />
+</picture>
 <!-- profile-snake:end -->
 
 <a name="profile-activity"></a>
